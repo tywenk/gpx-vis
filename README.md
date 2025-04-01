@@ -24,8 +24,9 @@ uv pip install -e .
 
 ## Usage
 
-1. Place your GPX files in the `data/` directory
-2. Run the visualization script:
+1. Create a `data/` directory in the project root if it doesn't exist
+2. Place your GPX files in the `data/` directory
+3. Run the visualization script:
 
 ```bash
 # Run with uv
